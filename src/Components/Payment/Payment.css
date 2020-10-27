@@ -1,0 +1,45 @@
+.payment{
+    
+}
+
+.payment > h2{
+    text-align: center;
+}
+
+.payment_box{ 
+    background-color: white;
+}
+
+.payment_both{
+    margin: 0px 30px;
+    display: flex;
+    border-bottom: 1px solid lightgray;
+}
+
+.payment_boxLeft{
+    margin: 0px 30px;
+    
+    text-align: right;
+}
+
+.payment_address{
+    margin: 0 30px;
+}
+
+.payment_boxRight{
+    margin: 0px 30px;
+    padding: 30px;
+    
+}
+
+.payment_button{
+    background: #f0c14b;
+    border-radius: 2px;
+    width: 100%;
+    height: 30px;
+    border: 1px solid;
+    font-weight: bolder;
+    margin-top: 10px;
+    border-color: #a88734 #9c7e31 #846a29;
+    color: #111;
+}
